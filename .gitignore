@@ -1,2 +1,4 @@
 venv/
 .idea
+bot/api_key.py
+bot/__pycache__/
